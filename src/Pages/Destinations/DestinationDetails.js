@@ -6,7 +6,7 @@ const DestinationDetails = () => {
     const {id} =useParams()
     const [destinationDetails,setDestinationsDetails]=useState([])
     useEffect(()=>{
-        fetch(`http://localhost:8000/destinations/${id}`)
+        fetch(`https://frightful-vault-19585.herokuapp.com/destinations/${id}`)
         .then(res=>res.json())
         .then(data=>setDestinationsDetails(data.places))
     },[id])

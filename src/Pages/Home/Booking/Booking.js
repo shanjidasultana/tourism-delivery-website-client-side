@@ -10,7 +10,7 @@ const Booking = () => {
     const [single,setSingle]=useState([]);
 
     useEffect(()=>{
-        fetch(`http://localhost:8000/tours/${id}`)
+        fetch(`https://frightful-vault-19585.herokuapp.com/tours/${id}`)
         .then(res=>res.json())
         .then(data=>setSingle(data))
     },[id])
@@ -24,7 +24,7 @@ const Booking = () => {
             data.picture=picture;
             data.price=price;
             
-        axios.post('http://localhost:8000/bookingList', data)
+        axios.post('https://frightful-vault-19585.herokuapp.com/bookingList', data)
         .then(res => {
             if (res.data.insertedId) {
                 alert('added successfully');

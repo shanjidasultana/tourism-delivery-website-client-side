@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Destinations = () => {
     const [destinations,setDestinations] =useState([])
     useEffect(()=>{
-        fetch('http://localhost:8000/destinations')
+        fetch('https://frightful-vault-19585.herokuapp.com/destinations')
             .then(res=>res.json())
             .then(data=>setDestinations(data))
     },[])

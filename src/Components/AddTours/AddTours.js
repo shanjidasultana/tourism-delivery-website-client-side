@@ -5,7 +5,7 @@ import { useForm } from "react-hook-form";
 const AddTours = () => {
     const { register, handleSubmit, reset} = useForm();
     const onSubmit = data => {console.log(data);
-    axios.post('http://localhost:8000/tours', data)
+    axios.post('https://frightful-vault-19585.herokuapp.com/tours', data)
     .then(res => {
         if (res.data.insertedId) {
             alert('added successfully');

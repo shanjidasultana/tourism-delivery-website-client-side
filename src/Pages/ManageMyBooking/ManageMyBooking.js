@@ -6,7 +6,7 @@ const ManageMyBooking = () => {
     const {user}=useAuth();
     const {email}=user;
     useEffect(()=>{
-        fetch(`http://localhost:8000/bookingList?email=${email}`)
+        fetch(`https://frightful-vault-19585.herokuapp.com/bookingList?email=${email}`)
         .then(res => res.json())
         .then(data=>setMyBooking(data))
     },[email])
@@ -20,7 +20,7 @@ const ManageMyBooking = () => {
     const handleDeleteUser = id => {
         const proceed = window.confirm('Are you sure, you want to delete?');
         if (proceed) {
-            const url = `http://localhost:8000/bookingList/${id}`;
+            const url = `https://frightful-vault-19585.herokuapp.com/bookingList/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })

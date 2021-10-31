@@ -47,7 +47,7 @@ const UpdateUser = () => {
     }
     const handleUpdateUser = e => {
         
-        const url = `http://localhost:8000/bookingList/${id}`;
+        const url = `https://frightful-vault-19585.herokuapp.com/bookingList/${id}`;
         fetch(url, {
             method: 'PUT',
             headers: {
