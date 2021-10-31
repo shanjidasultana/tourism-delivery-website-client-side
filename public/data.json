@@ -1,0 +1,130 @@
+[
+    {
+      
+      "SpotName": "Banff National Park",
+      "price": "2730",
+      "picture": "https://i.ibb.co/QJY8Mfz/payto-1.jpg",
+      "details": "The stunning color of Peyto Lake in Canada’s Banff National Park, which may be described as emerald, turquoise, or blue, results when sunlight is scattered off of suspended glacial silt (rock flour).",
+      "location": "Peyto  Lake of Banff"
+    },
+    {
+      
+      "SpotName": "Lagoon Passes",
+      "price": "1200",
+      "picture": "https://i.ibb.co/Mc16552/sailing-1.jpg",
+      "details": "Coral reefs grow in tropical waters, frequently around volcanic islands. The cones of these volcanoes sink back into the sea over millions of years.",
+      "location": "Sailing,Pacific"
+    },
+    {
+      
+      "SpotName": " Corcovado",
+      "price": "1850",
+      "picture": "https://i.ibb.co/J5ZK97S/Corcovado-1.jpg",
+      "details": "Corcovado National Park is located in southwestern Costa Rica as part of the Osa Peninsula. The park covers an area of 164 square miles (424 sq km). ",
+      "location": "Costarica,Panama"
+    },
+    {
+      
+      "SpotName": "Cerro Verde lake",
+      "price": "1200",
+      "picture": "https://i.ibb.co/y4PwddS/craco-1.jpg",
+      "details": "While Cerro Verde hasn’t erupted in over 2,500 years, the other two have a long history of eruptions. Izalco was once considered the “Lighthouse of the Pacific,” ",
+      "location": "EI Salvedor,Belize"
+    },
+    {
+      
+      "SpotName": " The Grand Palace",
+      "price": "1670",
+      "picture": "https://i.ibb.co/qDQZDH0/grand-palace-1.jpg",
+      "details": "Even if your plans for Thailand mainly involve frolicking on a beach and eating as much Massaman curry and pad Thai as humanly possible",
+      "location": "Thailand,Cambodia"
+    },
+    {
+      
+      "SpotName": "Monteverde Cloud Fores",
+      "price": "800",
+      "picture": "https://i.ibb.co/z4btGH9/africa-1.jpg",
+      "details": "Africa’s Monteverde Cloud Forest Reserve is one of the country’s most fascinating destinations. This area is home to more than one hundred mammal species, four hundred species of bird, thousands of different insects, and thousands of different plants.",
+      "location": "Kongo,Africa"
+    },
+    {
+      
+      "SpotName": "Rainbow Mountain",
+      "price": "2850",
+      "picture": "https://i.ibb.co/0hRf3fW/rainbow-1.jpg",
+      "details": "The Rainbow Mountain, also known as the Vinicunca is a undiscovered land full of wildly desert landscapes, snow capped glaciated peaks, herds of alpacas, and pristine beauty. This hike gets you to experience summiting a mountain over 5,100 m.",
+      "location": "Peru,Bolivia"
+    },
+    {
+      
+      "SpotName": "Morning Glory Pool",
+      "price": "1200",
+      "picture": "https://i.ibb.co/KhV9FPg/glory-1.jpg",
+      "details": "The pool was named by Mrs E. N. McGowan, wife of Assistant Park Superintendent, Charles McGowan in 1883. She called it 'Convolutus', the Latin name for the morning glory flower, which the spring resembles",
+      "location": "Dugi Otuk,Croatia"
+    },
+    {
+      
+      "SpotName": "Rio Celeste Waterfall",
+      "price": "1870",
+      "picture": "https://i.ibb.co/fkhkxb8/rio-1.jpg",
+      "details": "Rio Celeste Waterfall, pictured here, looks as picture-perfect in real life as it does in this photo. The stunning, bright turquoise pool beneath the cascading waterfall is tucked away in a cloud forest .",
+      "location": "Costrica"
+    },
+    {
+      
+      "SpotName": "Bora Bora",
+      "price": "2730",
+      "picture": "https://i.ibb.co/9rSbcX9/bora-1.jpg",
+      "details": "Shaped like a giant sombrero, this lush volcanic island stars in countless South Pacific fantasies. The focal point and best asset of this tropical beauty is its ravishing lagoon in technicolor turquoise. Fish, turtles, sharks, and rays swim in the clear waters, and tiny islets or motus dot the lagoon.",
+      "location": "Bora Bora, French Polynesia"
+    },
+    {
+      
+      "SpotName": "Castillo de San",
+      "price": "1800",
+      "picture": "https://i.ibb.co/PgJzVw4/castillo-de-san-1.jpg",
+      "details": "A UNESCO World Heritage Site, Castillo del Morro is one of the best-preserved Spanish fortresses of the 17th century. It stands at the entrance to the Bay of Santiago, about 10 kilometers southwest of Santiago de Cuba, the country's second largest city.",
+      "location": "Cuba,Havana"
+    },
+    {
+      
+      "SpotName": "Seychelles",
+      "price": "1200",
+      "picture": "https://i.ibb.co/HCNW45y/seychelles-1.jpg",
+      "details": "The Seychelles also feature some of the planet's richest fishing grounds, making this a top destination for anglers. Add some spicy Créole cuisine into the mix, as well as the plush resorts of Mahé, Praslin, and La Digue, and it's easy to understand the Seychelles' allure..",
+      "location": "Seychelles,East Kaneya"
+    },
+    {
+      
+      "SpotName": "Santorini",
+      "price": "1700",
+      "picture": "https://i.ibb.co/3Czzv3y/santorini-1.jpg",
+      "details": "Encircling a sea-filled caldera, spectacular Santorini scores top points for its dramatic beauty. Bleached white villas tumble down volcanic cliffs. Blue-domed churches rise against the sparkling sea, and bright sprays of bougainvillea add to the eye-popping palette of color.",
+      "location": "Santorini, Greece"
+    },
+    {
+      
+      "SpotName": " The Cook Islands",
+      "price": "2100",
+      "picture": "https://i.ibb.co/XC0Rjzq/cook-islands-1.jpg",
+      "details": "The Cook Islands are for you. Strung between French Polynesia and Samoa but with strong ties to New Zealand, the archipelago's 15 islands are among the most beautiful islands in the South Pacific..",
+      "location": "Cook Islands,New Zealand"
+    },
+    {
+      
+      "SpotName": "The Bali",
+      "price": "2330",
+      "picture": "https://i.ibb.co/Kzd1QjF/bali-1.jpg",
+      "details": "Bali's intoxicating culture is a feast for the senses. Incense wafts from Hindu temples, rice paddies glow in electric greens, and the food jolts the taste buds. Surfing, swimming, and sunbathing are popular activities ",
+      "location": "Bali, Indonesia"
+    },
+    {
+      
+      "SpotName": "Capri Island",
+      "price": "1500",
+      "picture": "https://i.ibb.co/XJy4rJq/capri-1.jpg",
+      "details": "Glamorous Capri, about 20 kilometers off the Amalfi Coast, lives up to all the hype. Sea stacks and soaring cliffs rise from the teal-hued Tyrrhenian Sea, framed by sprays of colorful flowers.",
+      "location": "Capri, Italy"
+    }
+  ]

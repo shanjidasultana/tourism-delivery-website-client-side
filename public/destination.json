@@ -1,0 +1,237 @@
+[
+    {
+      "name": "Western Euroup",
+      "picture": "https://i.ibb.co/j6P741J/western-1.jpg",
+      "details": " Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places": [
+                {
+                "id": 0,
+                "name": "Chile – Santiago, Wine Country",
+                "time": "6 Days 5 Nights",
+                "picture": "https://i.ibb.co/174WMXt/chille-1.jpg",
+                "price": "1,600",
+                "rating": 4
+                },
+                {
+                "id": 1,
+                "name": "Argentina – Great Diving Trip",
+                "time": "2 days 1 nights",
+                "picture": "https://i.ibb.co/Lpdcfwd/arzentina-1.jpg",
+                "price": "1200",
+                "rating": 5
+                },
+                {
+                "id": 2,
+                "name": "Brazil – Rio de Janeiro",
+                "time": "3 days 2 nights",
+                "picture": "https://i.ibb.co/YBDX9VN/rio-2.jpg",
+                "price": "1900",
+                "rating": 5
+                }
+            ],
+        "time": "3 hours"
+    },
+    {
+      "name": "Scandinavia",
+      "picture": "https://i.ibb.co/jHS8rtX/scan.jpg",
+      "details": " Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places":[
+                    {
+                    "id": 0,
+                    "name": "Paris – Eiffel Tower, Notre Dame Cath..",
+                    "time": "10 Hours",
+                    "picture": "https://i.ibb.co/xGQQJJ8/ifel-1.jpg",
+                    "price": "800",
+                    "rating": 5
+                    },
+                    {
+                    "id": 1,
+                    "name": "Austria –Vienna, Hallstatt",
+                    "time": "2 days 1 nights",
+                    "picture": "https://i.ibb.co/t8TB99F/Hallstatt-1.jpg",
+                    "price": "2100",
+                    "rating": 5
+                    }
+                    
+                ],
+      "time": "2 hours"
+    },
+    {
+      "name": "Asia",
+      "picture": "https://i.ibb.co/5sTMnTh/asia-1.jpg",
+      "details": "4 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places": [
+                    {
+                    "id": 0,
+                    "name": "Molokini and Turtle Arches Snorkeling Trip",
+                    "time": "4 hours",
+                    "picture": "https://i.ibb.co/vdc1GQB/turtle-1.jpg",
+                    "price": "80",
+                    "rating": 4
+                    },
+                    {
+                    "id": 1,
+                    "name": "India – Agra, New Delhi",
+                    "time": "5 days 4 nights",
+                    "picture": "https://i.ibb.co/DMTFxLc/taj-mahal-1.jpg",
+                    "price": "1600",
+                    "rating": 5
+                    },
+                    {
+                    "id": 2,
+                    "name": " Thailand,Phuket",
+                    "time": "7 days 6 nights",
+                    "picture": "https://i.ibb.co/m9RWWkX/pucket-1.jpg",
+                    "price": "1700",
+                    "rating": 5
+                    },
+                    {
+                    "id": 3,
+                    "name": " China – Suzhou and Zhouzhuang",
+                    "time": "4 days 3 nights",
+                    "picture": "https://i.ibb.co/xsWGyDL/china-1.jpg",
+                    "price": "1400",
+                    "rating": 5
+                    },
+                    {
+                    "id": 4,
+                    "name": " Bangladesh,SundorBan",
+                    "time": "4 days 3 nights",
+                    "picture": "https://i.ibb.co/myQ9NDg/sondhorban-1.jpg",
+                    "price": "1400",
+                    "rating": 5
+                    },
+                    {
+                    "id": 5,
+                    "name": " Bangladesh,SaintMartin",
+                    "time": "4 days 3 nights",
+                    "picture": "https://i.ibb.co/fNtvH29/sentmartin-1.jpg",
+                    "price": "1200",
+                    "rating": 5
+                    }
+                ],
+      "time": "5 hours"
+    },
+    {
+      "name": "America",
+      "picture": "https://i.ibb.co/XzynZLj/new-york-1.jpg",
+      "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places": [
+                    {
+                    "id": 0,
+                    "name": " Honolulu, Pearl Harbor, & Diamond Head",
+                    "time": "4 days",
+                    "picture": "https://i.ibb.co/pPqccrZ/640px-Diamond-Head-Hawaii-panoramio-1.jpg",
+                    "price": "1500",
+                    "rating": 4
+                    },
+                    {
+                    "id": 1,
+                    "name": "Alcatraz Tour plus Muir Woods",
+                    "time": "10 hours",
+                    "picture": "https://i.ibb.co/fXWb6PQ/muir-wood-1.jpg",
+                    "price": "160",
+                    "rating": 5
+                    },
+                    {
+                    "id": 2,
+                    "name": "Chicago Cloud Gate",
+                    "time": "7 days 6 nights",
+                    "picture": "https://i.ibb.co/7pC9RKc/Chicago-1.jpg",
+                    "price": "1700",
+                    "rating": 5
+                    },
+                    {
+                    "id": 3,
+                    "name": " America – Grand canyon, Golden Gate ",
+                    "time": "8 days 7 nights",
+                    "picture": "https://i.ibb.co/5LLKfC1/golden-1.jpg",
+                    "price": "2400",
+                    "rating": 5
+                    }
+                ],
+      "time": "4 hours"
+    },
+    {
+      "name": "Africa Wild",
+      "picture": "https://i.ibb.co/vvJDQGY/Africa22-1.jpg",
+      "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places": [
+                    {
+                    "id": 0,
+                    "name": "Africa – Amazing African Safari",
+                    "time": "4 hours",
+                    "picture": "https://i.ibb.co/pL38BRK/place1-1.jpg",
+                    "price": "150",
+                    "rating": 4
+                    },
+                    {
+                    "id": 1,
+                    "name": "South Africa – Cape Town",
+                    "time": "7 days 6 night",
+                    "picture": "https://i.ibb.co/d70mGHt/cape-town-1.jpg",
+                    "price": "2200",
+                    "rating": 5
+                    },
+                    {
+                    "id": 2,
+                    "name": " Africa Great Pyramid of Giza",
+                    "time": "7 days 6 nights",
+                    "picture": "https://i.ibb.co/f8kxLTF/great-pyramid-with-camel-1200-1.jpg",
+                    "price": "1700",
+                    "rating": 5
+                    },
+                    {
+                    "id": 3,
+                    "name": " Africa – Amajon ",
+                    "time": "8 days 7 nights",
+                    "picture": "https://i.ibb.co/ZLscn8k/Macaw-Facts-Scarlet-1.jpg",
+                    "price": "2400",
+                    "rating": 5
+                    }
+                ],
+      "time": "5 hours"
+    },
+    {
+      "name": "Africa adventure",
+      "picture": "https://i.ibb.co/r3DHhPf/The-Wild-Coast-shutterstock-1.jpg",
+      "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "places": [
+                    {
+                    "id": 0,
+                    "name": "Johannesburg – Victoria Falls",
+                    "time": "4 days 3 night",
+                    "picture": "https://i.ibb.co/1vGh3Rr/waterfalls.jpg",
+                    "price": "2500",
+                    "rating": 4
+                    },
+                    {
+                    "id": 1,
+                    "name": "Chile – Santiago, Wine Country",
+                    "time": "6 days 5 nights",
+                    "picture": "",
+                    "price": "1700",
+                    "rating": 5
+                    },
+                    {
+                    "id": 2,
+                    "name": "The Kruger Wild",
+                    "time": "6 days 5 nights",
+                    "picture": "https://i.ibb.co/qdBTn7p/Kruger-National-1.jpg",
+                    "price": "1700",
+                    "rating": 5
+                    },
+                    {
+                    "id": 3,
+                    "name": ". The Wild Coast",
+                    "time": "6 days 5 nights",
+                    "picture": "https://i.ibb.co/k3qPVj8/800px-Kruger-Park-Elephants-1.jpg",
+                    "price": "1700",
+                    "rating": 5
+                    }
+                    
+                ],
+      "time": "2 hours"
+    }
+
+]
