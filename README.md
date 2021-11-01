@@ -11,7 +11,7 @@
 + Heroku
 
 ### Website Link
- [Turgo Trip](https://turgo-trip.web.app) to view it in the 
+ [Turgo Trip](https://turgo-trip.web.app/) to view it in the 
 
 
 

@@ -9,7 +9,7 @@ const MoreServies = () => {
     return (
         <div>
             <h3 className="text-center text-green-600  mb-5 text-4xl mt-10 font-bold">Our Travel Services and Adventures </h3>
-                <p className="text-yellow-400 mb-10  text-2xl ">Enjoy your trip with free mind </p>
+                <p className="text-yellow-400 mb-10  text-2xl ">Enjoy your trip with free mind...</p>
         <div className='grid lg:grid-cols-4 md:grid-cols-3'>
             <div className="ml-4">
                 <GiCycling className="text-9xl mx-auto mt-9 text-yellow-600"/>
