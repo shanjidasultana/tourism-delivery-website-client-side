@@ -8,7 +8,7 @@ import {FaAlignRight} from 'react-icons/fa'
 const ManageBooking = () => {
     const [displays,setDisplays]=useState([]);
     useEffect(()=>{
-        fetch('http://localhost:8000/bookingList')
+        fetch(`https://frightful-vault-19585.herokuapp.com/bookingList`)
         .then(res=>res.json())
         .then(data=>setDisplays(data))
     },[])
