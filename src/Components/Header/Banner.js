@@ -5,9 +5,9 @@ const Banner = () => {
     return (
         <div>
             <header className="bg-white shadow">
-            <video className='videoTag w-screen h-90' autoPlay loop muted>
-                <source src={sample} type='video/mp4' />
-            </video>
+                    <video className='videoTag w-screen h-90' autoPlay loop muted>
+                        <source src={sample} type='video/mp4' />
+                    </video>
             </header>
         </div>
     );
