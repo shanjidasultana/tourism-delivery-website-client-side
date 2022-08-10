@@ -1,4 +1,5 @@
 import { BrowserRouter,Switch,Route } from 'react-router-dom';
+import ScriptTag from 'react-script-tag';
 import './App.css';
 import AddTours from './Components/AddTours/AddTours';
 import AuthProvider from './Components/Context/AuthProvider';
@@ -9,6 +10,7 @@ import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 import DestinationDetails from './Pages/Destinations/DestinationDetails';
 import Destinations from './Pages/Destinations/Destinations';
 import Booking from './Pages/Home/Booking/Booking';
+import Contact from './Pages/Home/Contact/Contact';
 import Home from './Pages/Home/Home';
 import Login from './Pages/Login/Login';
 import ManageBooking from './Pages/ManageBooking/ManageBooking';
@@ -16,7 +18,7 @@ import ManageMyBooking from './Pages/ManageMyBooking/ManageMyBooking';
 import UpdateBooking from './Pages/UpdateBooking/UpdateBooking';
 function App() {
   return (
-    <div className="App">
+    <div className="App " >
       <AuthProvider>
       <BrowserRouter>
         <Navbar></Navbar>
@@ -42,6 +44,9 @@ function App() {
           <Route path="/destinations">
             <Destinations></Destinations>
           </Route>
+          <Route path="/contact">
+            <Contact></Contact>
+          </Route>
           <Route path="/destination/:id">
             <DestinationDetails></DestinationDetails>
           </Route>
@@ -59,6 +64,7 @@ function App() {
 
       </BrowserRouter>
       </AuthProvider>
+     
     </div>
   );
 }
